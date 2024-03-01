@@ -24,7 +24,7 @@ Learn the distinction between class and static methods, and how they can be used
 Delve into the concept of properties, allowing for controlled access to class attributes and enhancing code readability.
 
 ## How to Use:
-Feel free to leverage these solutions to enhance your understanding of intermediate Python concepts. Each solution is accompanied by my own interpretations and guidance in the comments, providing you with valuable insights.
+Feel free to leverage these solutions to enhance your understanding of intermediate Python concepts. Each solution is accompanied by my own interpretations and guidance **in _the comments_**, providing you with valuable insights.
 
 ## Contribution:
 If you find areas for improvement or have alternative solutions, I encourage you to contribute to this repository. Let's create a collaborative space for Python enthusiasts to learn and grow together.
